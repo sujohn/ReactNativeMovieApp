@@ -16,6 +16,8 @@ import {
   StatusBar,
 } from 'react-native';
 
+import {getItem, setItem} from './src/utils/asyncStorage';
+
 import {
   Header,
   LearnMoreLinks,
