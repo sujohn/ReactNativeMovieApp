@@ -1,0 +1,51 @@
+{
+    "resultCode": 0,
+    "time": "20200310 141527",
+    "sessionId": "YToyOntzOjEwOiJzZXNzaW9uX2lkIjtzOjI2OiJkYXFkMDZmMTc0ajJhOTN0YnNrNjVhdjRvMiI7czo3OiJ1c2VyX2lkIjtzOjM6IjE5NiI7fQ==",
+    "userInfo": {
+      "id": 196,
+      "emblemId": 1,
+      "characterId": 1,
+      "facebookId": "0",
+      "fbConnectStat": 0,
+      "gamerName": "m user",
+      "profileImage": "https://geobit-dev.s3.ap-northeast-1.amazonaws.com/dev1/profile/images/256/profile196_1554355685.png",
+      "characterRecipe": "{\"packedRecipeType\":\"DynamicCharacterAvatar\",\"name\":\"dcs_setup(Clone)\",\"race\":\"Female1Race\",\"dna\":[],\"characterColors\":[{\"name\":\"Skin\",\"colors\":[221,108,120,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,43,43,43,37]},{\"name\":\"Hair\",\"colors\":[143,119,85,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{\"name\":\"Eyes\",\"colors\":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],\"wardrobeSet\":[{\"slot\":\"Hair\",\"recipe\":\"Female1_Hair5_Recipe\"},{\"slot\":\"Legs\",\"recipe\":\"Female1_Pant3_Recipe\"},{\"slot\":\"Body\",\"recipe\":\"Female1_Shirt3_Recipe\"},{\"slot\":\"Feet\",\"recipe\":\"Female1_Shoe4_Recipe\"},{\"slot\":\"Accessories\",\"recipe\":\"Female1_Accessories1_Recipe\"}],\"raceAnimatorController\":\"CharAnimatorController\"}",
+      "gender": "female",
+      "level": 1,
+      "levelExpLimit": 0,
+      "exp": 0,
+      "firstName": "m",
+      "lastName": "s",
+      "email": "m@s.com",
+      "accountStatus": 1,
+      "personalInfo": "",
+      "pushNotificationStat": 0,
+      "countryId": 1,
+      "bitcoinAddress": "",
+      "bitcoin": 0,
+      "geopoint": 0,
+      "distanceCovered": 0,
+      "totalDistance": 0,
+      "latitude": 23.75169,
+      "longitude": 90.38636,
+      "playedAt": "2018-12-14 22:46:31",
+      "times": 0,
+      "findFor": "",
+      "hi": "",
+      "crush": "",
+      "message": "",
+      "peopleAgeRange": "",
+      "userStickerGroups": [
+        {
+          "stickerGroupId": 1
+        },
+        {
+          "stickerGroupId": 2
+        }
+      ],
+      "transactionRating": 4.5
+    },
+    "execution_time": 0.009862899780273438,
+    "apiCode": 203
+  }

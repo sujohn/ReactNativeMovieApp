@@ -17,6 +17,9 @@ import {
 } from 'react-native';
 
 import {getItem, setItem} from './src/utils/asyncStorage';
+import MockModel from './src/temp/MockModel';
+import json from './src/temp/UserInfo.json';
+
 
 import {
   Header,
@@ -26,7 +29,13 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+
+
+
 const App: () => React$Node = () => {
+
+  const model = new MockModel(json);
+
   return (
     <>
       <StatusBar barStyle="dark-content" />
@@ -37,12 +46,12 @@ const App: () => React$Node = () => {
           <Header />
           {global.HermesInternal == null ? null : (
             <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
+              <Text style={styles.footer}>Engine: Hermes </Text>
             </View>
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
+              <Text style={styles.sectionTitle}>Step One {model.name()}</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
                 screen and then come back to see your edits.
