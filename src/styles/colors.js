@@ -9,3 +9,13 @@ export const pink = '#f95f62';
 export const lightRed = '#ff7f7f';
 export const lightYellow = '#eab079';
 export const lightGreen = '#82c596';
+
+// ACTIONS
+export const SUCCESS = '#3adb76';
+export const WARNING = '#ffae00';
+export const ALERT = '#cc4b37';
+
+// GRAYSCALE
+export const GRAY_LIGHT = '#e6e6e6';
+export const GRAY_MEDIUM = '#cacaca';
+export const GRAY_DARK = '#8a8a8a';
